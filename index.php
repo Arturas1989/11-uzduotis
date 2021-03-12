@@ -174,7 +174,7 @@ echo '"11 uzduotis"';
             $str.= ($num6);
         }
 
-    echo 'Atsitiktiniai skaiciai: ' . $num1 . ', ' . $num2 . ', ' . $num3 . ', ' . $num4 . ', ' . $num5 . ', ';
+    echo 'Atsitiktiniai skaiciai: ' . $num1 . ', ' . $num2 . ', ' . $num3 . ', ' . $num4 . ', ' . $num5 . ', ' . $num6;
     echo '<br>';
     echo 'Nuo didziausio iki maziausio: ' . $str;
     echo '<br>';
